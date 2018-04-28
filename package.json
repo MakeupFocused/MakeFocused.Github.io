@@ -1,8 +1,8 @@
 {
-    "title": "Stylish Portfolio",
-    "name": "startbootstrap-stylish-portfolio",
+    "title": "Makeup Focused",
+    "name": "Makeup Focused",
     "version": "4.0.0",
-    "description": "A stylish portfolio HTML template built with Bootstrap",
+    "description": "My name is Brittany and I am an up and coming makeup artist. I am very passionate about makeup and I would love to do your makeup!",
     "keywords": [
         "css",
         "sass",
@@ -11,7 +11,7 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/stylish-portfolio",
+    "homepage": "https://makeupfocused.github.io/",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/issues",
         "email": "feedback@startbootstrap.com"
@@ -23,7 +23,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio.git"
+        "url": "https://github.com/MakeupFocused/makeupfocused.github.io"
     },
     "dependencies": {
         "bootstrap": "4.0.0",
